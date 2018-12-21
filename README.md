@@ -1,2 +1,2 @@
 # WoL
-Simple WoL magic packet tool
+Simple python WoL magic packet tool
